@@ -1,10 +1,13 @@
-content_assist_favorite_static_members=org.assertj.core.api.Assertions.*;org.mockito.Matchers.*;org.mockito.Mockito.*;org.springframework.security.test.web.servlet.request.SecurityMockMvcRequestBuilders.*;org.springframework.security.test.web.servlet.request.SecurityMockMvcRequestPostProcessors.*;org.springframework.security.test.web.servlet.response.SecurityMockMvcResultMatchers.*;org.springframework.security.test.web.servlet.setup.SecurityMockMvcConfigurers.*;org.springframework.restdocs.mockmvc.MockMvcRestDocumentation.*;org.springframework.test.web.client.match.MockRestRequestMatchers.*;org.springframework.test.web.client.response.MockRestResponseCreators.*;org.springframework.test.web.servlet.request.MockMvcRequestBuilders.*;org.springframework.test.web.servlet.result.MockMvcResultHandlers.*;org.springframework.test.web.servlet.result.MockMvcResultMatchers.*;org.hamcrest.CoreMatchers.*;org.junit.Assert.*
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="org.json.JSONObject"><rhs name\="org.json.JSONObject"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.TreeSet"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.TreeSet"/></lhs><lhs name\="java.util.Set"><rhs name\="java.util.TreeSet"/></lhs><lhs name\="java.io.Reader"><rhs name\="java.io.BufferedReader"/><rhs name\="java.io.InputStreamReader"/></lhs><lhs name\="java.lang.Readable"><rhs name\="java.io.BufferedReader"/><rhs name\="java.io.InputStreamReader"/></lhs><lhs name\="java.io.Closeable"><rhs name\="java.io.BufferedReader"/><rhs name\="java.io.InputStreamReader"/></lhs><lhs name\="java.lang.AutoCloseable"><rhs name\="java.io.BufferedReader"/><rhs name\="java.io.InputStreamReader"/></lhs><lhs name\="java.io.BufferedReader"><rhs name\="java.io.BufferedReader"/></lhs><lhs name\="java.lang.Number"><rhs name\="java.lang.Integer"/></lhs><lhs name\="java.util.Enumeration"><rhs name\="java.util.StringTokenizer"/></lhs><lhs name\="java.util.StringTokenizer"><rhs name\="java.util.StringTokenizer"/></lhs><lhs name\="java.util.Map"><rhs name\="java.util.Hashtable"/></lhs><lhs name\="org.springframework.web.servlet.ModelAndView"><rhs name\="org.springframework.web.servlet.ModelAndView"/></lhs></history>
+content_assist_number_of_computers=17
 content_assist_proposals_background=255,255,255
 content_assist_proposals_foreground=60,60,60
 eclipse.preferences.version=1
 org.eclipse.jdt.ui.formatterprofiles.version=16
 org.eclipse.jdt.ui.text.code_templates_migrated=true
 org.eclipse.jdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.templates_migrated=true
 spelling_locale_initialized=true
 useAnnotationsPrefPage=true
 useQuickDiffPrefPage=true
